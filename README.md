@@ -41,7 +41,7 @@ task-tracker/
 
 **1. Clone the repo and navigate to the project directory:**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Ronitbara777/task-tracker.git
 cd task-tracker
 ```
 

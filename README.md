@@ -5,7 +5,7 @@ A minimal, full-stack task management application to keep track of what needs to
 I needed a simple, no-nonsense way to manage my tasks without the clutter of heavy project management tools. It was also a great excuse to spin up a clean MERN stack project and write some straightforward React.
 
 ## Live Demo
-[Add your vercel URL here]
+task-tracker-ronit4.vercel.app
 
 ## Tech Stack
 - **Frontend**: React, Vite, Tailwind CSS
@@ -94,4 +94,4 @@ npm run dev
 | `DELETE` | `/api/tasks/:id` | Delete a task |
 
 ## Screenshots
-*Add screenshots here*
+![alt text](image.png)
